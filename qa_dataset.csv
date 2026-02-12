@@ -1,0 +1,21 @@
+question,answer
+What is Artificial Intelligence?,Artificial Intelligence is a branch of computer science that enables machines to think like humans.
+What is Machine Learning?,Machine Learning is a subset of AI that allows machines to learn from data.
+What is Deep Learning?,Deep Learning uses multi-layer neural networks to learn complex patterns.
+What is Data Science?,Data Science is the study of data to extract meaningful insights.
+What is Python?,Python is a high-level programming language used in AI and data science.
+What is NLP?,"NLP stands for Natural Language Processing, which helps computers understand human language."
+What is Computer Vision?,Computer Vision enables machines to interpret visual information from images and videos.
+What is Neural Network?,A Neural Network is a computing system inspired by the human brain.
+What is TensorFlow?,TensorFlow is an open-source deep learning framework developed by Google.
+What is an Algorithm?,An algorithm is a step-by-step procedure to solve a problem.
+What is a Dataset?,A dataset is a collection of data used for training models.
+What is Supervised Learning?,Supervised Learning uses labeled data to train models.
+What is Unsupervised Learning?,Unsupervised Learning finds hidden patterns in unlabeled data.
+What is Reinforcement Learning?,Reinforcement Learning learns by interacting with an environment.
+What is a Model?,A model is a trained system that makes predictions.
+What is Overfitting?,Overfitting occurs when a model learns noise instead of patterns.
+What is Underfitting?,Underfitting occurs when a model fails to learn from data.
+What is Feature Engineering?,Feature Engineering is the process of selecting useful input variables.
+What is Training Data?,Training data is used to train the machine learning model.
+What is Testing Data?,Testing data is used to evaluate the performance of the model.
