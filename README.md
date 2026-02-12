@@ -85,9 +85,9 @@ Open browser:
 
 ## 👩‍💻 Author
 
-Sharmila Venna  
+Sharmilambika  Venna  
 B.Tech CSE (AI & Data Science)
 
 
-## 📂 Project Structure
+
 
